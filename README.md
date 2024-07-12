@@ -1,5 +1,3 @@
-<div backgroundColor="red">
-  
   ![Sarvesh here👋](https://github.com/user-attachments/assets/902a4e70-b374-4f20-8b65-73c602116942)
   
   <div align="center">
@@ -19,6 +17,19 @@
   - 📧 Reach me at [csarvesh288@gmail.com](mailto:csarvesh288@gmail.com)
   - 🔗 [My Portfolio](https://sarvesh-choudhary-portfolio.netlify.app)
   
+  ---
+  
+  ## 📈 GitHub Stats
+   
+  <div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarveshguru&theme=radical" alt="Profile Details" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarveshguru&theme=radical" alt="Top Languages by Repo" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarveshguru&theme=radical" alt="Top Languages by Commit" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarveshguru&theme=radical" alt="GitHub Stats" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarveshguru&theme=radical&utcOffset=5.5" alt="Productive Time" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarveshguru&theme=radical&hide_border=true&mode=weekly" alt="GitHub Streak" width="82%"/>
+  </div>
+
   ---
   
   ## 🛠 Tech I Use
@@ -57,20 +68,7 @@
   ![Nivo](https://img.shields.io/badge/Nivo-%2300C48B.svg?style=for-the-badge&logo=nivo&logoColor=white)  
     
   </div>
-  
-  ---
-  
-  ## 📈 GitHub Stats
-   
-  <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarveshguru&theme=radical" alt="Profile Details" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarveshguru&theme=radical" alt="Top Languages by Repo" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarveshguru&theme=radical" alt="Top Languages by Commit" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarveshguru&theme=radical" alt="GitHub Stats" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarveshguru&theme=radical&utcOffset=5.5" alt="Productive Time" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarveshguru&theme=radical&hide_border=true&mode=weekly" alt="GitHub Streak" width="82%"/>
-  </div>
-  
+    
   ---
   
   ## 🌐 Connect with Me
@@ -92,4 +90,3 @@
   <div align="center">
     <h4>Thank you for visiting my GitHub profile!</h4>  <img src="https://komarev.com/ghpvc/?username=sarveshguru&color=blue" alt="Profile Views" />
   </div> 
-</div>
