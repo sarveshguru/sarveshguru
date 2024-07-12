@@ -75,7 +75,7 @@
   
   <div align="center">
     <a href="https://www.linkedin.com/in/sarvesh-choudhary-7571a6126/">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" width="50" />
     </a>
     <a href="https://github.com/sarveshguru">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" />
