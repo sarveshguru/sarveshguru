@@ -34,7 +34,7 @@
   
   ## 🛠 Tech I Use
   
-  <div >
+  <div align="center">
     
   ### Programming Languages & Markup:
   ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
