@@ -77,11 +77,13 @@
     <a href="https://www.linkedin.com/in/sarvesh-choudhary-7571a6126/">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" width="50" />
     </a>
+    --
     <a href="https://github.com/sarveshguru">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="50" />
     </a>
+    --
     <a href="mailto:csarvesh288@gmail.com">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Email" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Email" width="50" />
     </a>
   </div>
   
