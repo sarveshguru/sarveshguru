@@ -75,13 +75,13 @@
   
   <div align="center">
     <a href="https://www.linkedin.com/in/sarvesh-choudhary-7571a6126/">
-      <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" />
     </a>
     <a href="https://github.com/sarveshguru">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" />
     </a>
     <a href="mailto:csarvesh288@gmail.com">
-      <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Email" />
     </a>
   </div>
   
