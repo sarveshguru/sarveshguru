@@ -1,11 +1,8 @@
-# Hi there, I'm Sarvesh Choudhary! 👋
 
-<!-- ![Profile Banner](https://sarvesh-choudhary-portfolio.netlify.app/banner.jpg)  -->
 ![Sarvesh here👋](https://github.com/user-attachments/assets/902a4e70-b374-4f20-8b65-73c602116942)
 
-
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/9919?s=460&v=4" width="200px">
+  # Hi there, I'm Sarvesh Choudhary! 👋
   <h2>Welcome to My GitHub Profile</h2>
 </div>
 
