@@ -1,5 +1,6 @@
   ![Sarvesh here👋](https://github.com/user-attachments/assets/902a4e70-b374-4f20-8b65-73c602116942)
-  
+  ![Black Minimal Motivation Quote LinkedIn Banner (1)](https://github.com/user-attachments/assets/56165a9f-0ca8-4493-8ff9-b23610fd4e58)
+
   <div align="center">
     # Hi there, I'm Sarvesh Choudhary! 👋
     <h2>Welcome to My GitHub Profile</h2>
