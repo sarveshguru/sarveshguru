@@ -78,7 +78,7 @@
       <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" />
     </a>
     <a href="https://github.com/sarveshguru">
-      <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" />
     </a>
     <a href="mailto:csarvesh288@gmail.com">
       <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email" />
@@ -88,5 +88,6 @@
   ---
   
   <div align="center">
-    <h4>Thank you for visiting my GitHub profile!</h4>  <img src="https://komarev.com/ghpvc/?username=sarveshguru&color=blue" alt="Profile Views" />
+     <img src="https://komarev.com/ghpvc/?username=sarveshguru&color=blue" alt="Profile Views" />
+    <h4>Thank you for visiting my GitHub profile!</h4> 
   </div> 
