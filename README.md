@@ -29,7 +29,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarveshguru&theme=radical" alt="Top Languages by Commit" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarveshguru&theme=radical" alt="GitHub Stats" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarveshguru&theme=radical&utcOffset=5.5" alt="Productive Time" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarveshguru&theme=radical&hide_border=true&mode=weekly" alt="GitHub Streak" width="82%"/>
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarveshguru&theme=radical&hide_border=true&mode=weekly" alt="GitHub Streak" width="82%"/> -->
   </div>
 
   ---
