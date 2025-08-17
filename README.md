@@ -14,8 +14,7 @@
   I am an aspiring software developer, My expertise lies in the MERN stack, and I have a solid foundation in C and C++. I'm passionate about building high-quality, user-centric products and continuously learning new technologies.
   
   - 🌍 Based in Bangalore, Karnataka
-  - 🎓 Studying at LNCT University, Bhopal
-  - 💻 Specializing in MERN stack development
+  - 🎓 Studying at C-DAC Bangalore
   - 📧 Reach me at [csarvesh288@gmail.com](mailto:csarvesh288@gmail.com)
   - 🔗 [My Portfolio](https://sarvesh-choudhary-portfolio.netlify.app)
   
