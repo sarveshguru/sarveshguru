@@ -1,10 +1,10 @@
   ---
   
   ![Sarvesh here👋](https://github.com/user-attachments/assets/902a4e70-b374-4f20-8b65-73c602116942)
-
+<img src="https://komarev.com/ghpvc/?username=sarveshguru&color=blue" alt="Profile Views" /> 
   <div align="center">
     # Hi there, I'm Sarvesh Choudhary! 👋
-    <h2>Welcome to My GitHub Profile</h2>
+    <h2>Welcome to My GitHub Profile </h2> 
   </div>
   
   ---
