@@ -7,6 +7,11 @@
     <h2>Welcome to My GitHub Profile </h2> 
   </div>
   
+  
+  <div align="center">
+    <img src="https://github.com/sarveshguru/sarveshguru/blob/output/github-snake-dark.svg" alt="snake gif" />
+  </div>
+  
   ---
     
   ## 🚀 About Me
