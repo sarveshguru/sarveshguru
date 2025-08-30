@@ -60,7 +60,8 @@ jobs:
 
           github_user_name: ${{ github.repository_owner }}
 
-
+          # Control the speed of the snake
+          speed: 0.3
 
           # Define the output files and their configurations
 
